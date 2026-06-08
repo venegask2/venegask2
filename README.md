@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Karina 👋
 
-<!--
-**venegask2/venegask2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 Master's Student in Bioinformatics
 
-Here are some ideas to get you started:
+📍 Annapolis, Maryland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Interested in biotechnology and computational biology. 
+
+💻 Currently learning:
+- Python
+- R
+- Genomics
+- Machine Learning
+
+🏃 Half Marathon Training
+🌊 Wellness & Coastal Lifestyle Creator
